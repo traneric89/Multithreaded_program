@@ -1,4 +1,4 @@
-# Multithreaded_program
+# Multithreaded Program
 
 Assignment Question for 3SH3 Operating Systems
 
